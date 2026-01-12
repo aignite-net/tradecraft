@@ -1,6 +1,6 @@
 # Introduction
 
-.NET-based starting point for LLM-centric, Agentic, and the next big things...
+EloqSense is a smart AI-based Calendar / Scheduler that is designed to become a starting point for .NET-based, LLM-centric, Agentic, and the next big things...
 
 # Resources
 
